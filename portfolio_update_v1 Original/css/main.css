@@ -10,7 +10,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: #fff;
 }
 
 
@@ -120,8 +120,9 @@ header .profile-image:hover {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
-  text-align: left;
+  text-align: center;
   background: #fff;
+  border-top: 4px solid #ccc;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
@@ -181,7 +182,7 @@ a.social {
   width: 30px;
   height: 30px;
   background-size: 30px 30px;
-  opacity: .4;
+  opacity: .6;
   transition: all .5s;
 }
 
