@@ -122,10 +122,6 @@ header .profile-image:hover {
   max-width: 500px;
   text-align: center;
   background: #fff;
-  border-top: 4px solid #ccc;
-  border-bottom: 4px solid #ccc;
-  border-radius: 6px;
-  transition: all .5s;
 }
 
 .card:hover {
@@ -153,6 +149,10 @@ ul.skills {
 
 
 /* footer */
+
+.foot {
+  clear: both;
+}
 
 footer {
   width: 100%;
