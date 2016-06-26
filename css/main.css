@@ -1,4 +1,6 @@
-/* Global Layout Set-up */
+/***************
+GENERAL
+***************/
 
 * { 
   box-sizing: border-box;
@@ -15,7 +17,9 @@ body {
 
 
 
-/* Link Styles */
+/***************
+LINK
+***************/
 
 a {
   text-decoration: none;
@@ -32,7 +36,9 @@ a.selected {
 
 
 
-/* Navigation Styles */
+/***************
+NAV
+***************/
 
 .main-nav {
   width: 100%;
@@ -67,7 +73,9 @@ li.name {
 
 
 
-/* header */
+/***************
+HEADER
+***************/
 
 .header_a {
   background: url('../images/asturia.jpg') no-repeat top center ;
@@ -121,7 +129,9 @@ header .profile-image:hover {
 
 
 
-/* body style */
+/***************
+BODY
+***************/
 
 .card {
   margin: 30px;
@@ -151,7 +161,9 @@ ul.skills {
 
 
 
-/* footer */
+/***************
+FOOTER
+***************/
 
 .foot {
   clear: both;
@@ -211,10 +223,15 @@ a.social:hover {
 
 
 
-/* contact page */
+/***************
+CONTACT
+***************/
 
 .mail {
   color: blue;
 }
+
+
+
 
 

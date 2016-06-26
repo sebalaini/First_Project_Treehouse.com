@@ -1,4 +1,6 @@
-/* Styles for larger screens */
+/***************
+MEDIA QUERIES
+***************/
 
 @media screen and (min-width: 330px) {
   .nav .name {
