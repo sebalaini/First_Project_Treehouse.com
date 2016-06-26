@@ -60,6 +60,9 @@ a.selected {
   padding: 10px;
 }
 
+.name {
+  padding: 0;
+}
 
 
 /* header */
