@@ -52,7 +52,6 @@ a.selected {
 
 .nav .name {
   display: block;
-  margin-right: auto;
   color: white;
 }
 
@@ -60,6 +59,9 @@ a.selected {
   padding: 10px;
 }
 
+li.name {
+  padding: 10px 0;
+}
 
 
 /* header */
