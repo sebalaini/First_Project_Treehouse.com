@@ -9,9 +9,12 @@
   .location {
     width: auto;
   }
+  
+  .nav {
+    font-weight: 700;
+  }
 
 }
-
 
 @media screen and (min-width: 720px) {
   
