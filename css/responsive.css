@@ -5,6 +5,11 @@
     margin-right: auto;
   }
 
+  .tag,
+  .location {
+    width: auto;
+  }
+
 }
 
 

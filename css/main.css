@@ -109,12 +109,14 @@ header .profile-image:hover {
   border-radius: 20px;
   display: table;
   margin: 10px auto;
+  width: 80%;
 } 
 
 .location {
   background-color: #fff;
   color: black;
   border-radius: 10px;
+  width: 80%;
 }
 
 
